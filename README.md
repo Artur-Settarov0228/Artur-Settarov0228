@@ -1,6 +1,7 @@
 <h1 align="center">Assalomu alaykum 👋, men Artur!</h1>
 <h3 align="center">Python Backend, Django, FastAPI va Bots Developer</h3>
 
+
 ---
 
 ### 👨‍💻 Men haqimda
