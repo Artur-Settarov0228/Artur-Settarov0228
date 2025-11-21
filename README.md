@@ -1,56 +1,59 @@
-<h1 align="center">Assalomu alaykum 👋, men Artur!</h1>
-<h3 align="center">Python Backend, Django, FastAPI va Bots Developer</h3>
-
+<h1 align="center">👋 Assalomu alaykum, men Artur!</h1>
+<h3 align="center">Python Backend Developer — Django | DRF | FastAPI | Bots</h3>
 
 ---
 
-### 👨‍💻 Men haqimda
+## 👨‍💻 Men haqimda
 
 - 🔥 Hozirgi loyiha: **Mini Instagram (Django + DRF)**
+- 🚀 Yo‘nalishim: **Backend Development**
 - 📚 O‘rganyapman: **Django, DRF, FastAPI, SQL, PostgreSQL, Docker**
-- 🤖 Telegram botlar yarataman
-- 🛠 Backend loyihalar qilaman
-- 💾 Database dizayni va API ishlab chiqish
-- 📫 Bog‘lanish: **emailingni yozasan**
+- 🤖 Telegram botlar ishlab chiqaman
+- 🛠 API, autentifikatsiya va database arxitektura yarataman
+- ☁️ Backend logika va optimizatsiya bilan shug‘ullanaman
+- 📫 Bog‘lanish uchun email: **settarovartur2@gmail.com**
 
 ---
 
-### 🛠 Texnologiyalar
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DjangoREST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFA500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Statistikam
+## 🛠 Texnologiyalar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="49%">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Mening loyihalarim
+## 📊 GitHub Statistikam
 
-- 📸 **Mini Instagram — Django**
-- 🛒 **E-Commerce API**
-- 🤖 **Telegram Botlar**
-- 🌐 **FastAPI CRUD loyihalar**
-- 📦 **Docker Compose bilan microservice loyihalar**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📬 Bog‘lanish
+## 🔗 Loyihalarim
 
-- Telegram: t.me/artur_05s
-- Gmail: settarovartur2@gmail.com
+- 📸 **Mini Instagram — Django + DRF**
+- 🛒 **E-Commerce REST API**
+- 🤖 **Telegram Botlar (AI, CRUD, Payment)**
+- 🌐 **FastAPI CRUD loyihalar**
+- 🧩 **Auth, JWT, Roles bilan backend strukturalar**
+- 📦 **Docker Compose microservice loyihalar**
+
+---
+
+## 📬 Bog‘lanish
+
+- **Telegram:** [t.me/artur_05s](https://t.me/artur_05s)  
+- **Gmail:** settarovartur2@gmail.com
+
+---
