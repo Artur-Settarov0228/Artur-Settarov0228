@@ -13,17 +13,22 @@ Building scalable backend systems and AI-driven platforms.
 </p>
 ---
 
-# 💡 About Me
+# ## 💡 About Me
 
-I specialize in backend architecture and AI integration, focusing on building **high-performance, scalable and production-ready systems**.
+```python
+class ArturSettarov:
 
-* ⚡ Scalable backend systems
-* 🤖 AI-powered applications
-* 🧠 Microservices architecture
-* 📊 Real-time data processing
-* 🚀 ML model serving infrastructure
+    role = ["Backend Developer", "AI Engineer", "System Architect"]
 
-> Turning complex problems into elegant solutions.
+    focus = [
+        "Scalable Backend Systems",
+        "AI-powered Applications",
+        "Microservices Architecture",
+        "Real-time Data Processing",
+        "ML Model Serving Infrastructure"
+    ]
+
+    motto = "Turning complex problems into elegant solutions."
 
 ---
 
