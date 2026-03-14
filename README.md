@@ -3,16 +3,14 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Artur%20Settarov&fontSize=45&fontColor=00ff9f"/>
 </p>
-<h1 align="center">Hi 👋, I'm Artur Settarov</h1>
 
 <p align="center">
-Backend Developer • AI Engineer • System Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=35&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Artur+Settarov;Backend+Developer;AI+Engineer;System+Architect"/>
 </p>
 
 <p align="center">
 Building scalable backend systems and AI-driven platforms.
 </p>
-
 ---
 
 # 💡 About Me
