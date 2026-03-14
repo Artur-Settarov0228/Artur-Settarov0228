@@ -123,6 +123,9 @@ Features
 </a>
 
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:8E2DE2,100:DA22FF&height=200&section=header&text=Artur%20Settarov&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
 
