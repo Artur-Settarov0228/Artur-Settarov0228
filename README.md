@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:ff9966&height=200&section=header&text=Artur%20Settarov&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Artur%20Settarov&fontSize=45&fontColor=00ff9f"/>
 </p>
 <h1 align="center">Hi 👋, I'm Artur Settarov</h1>
 
