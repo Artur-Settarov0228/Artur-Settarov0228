@@ -12,88 +12,92 @@
 Building scalable backend systems and AI-driven platforms.
 </p>
 ---
+## 💡 About Me
 
-About Me
+I specialize in **backend architecture and AI integration**, focusing on building **high-performance, scalable and production-ready systems**.
 
-I specialize in backend architecture and AI integration, focusing on building high-performance, scalable and production-ready systems.
+* ⚡ Scalable backend systems
+* 🤖 AI-powered applications
+* 🧠 Microservices architecture
+* 📊 Real-time data processing
+* 🚀 ML model serving infrastructure
 
-⚡ Scalable backend systems
+> Turning complex problems into elegant solutions.
 
-🤖 AI-powered applications
+---
 
-🧠 Microservices architecture
+## 🛠 Tech Stack
 
-📊 Real-time data processing
+### Backend
 
-🚀 ML model serving infrastructure
+`Python` · `Django` · `FastAPI` · `Node.js` · `GraphQL`
 
-Turning complex problems into elegant solutions.
+### AI / ML
 
-🛠 Tech Stack
-Backend
+`TensorFlow` · `PyTorch` · `OpenAI API` · `LangChain` · `Scikit-learn`
 
+### Databases
 
+`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch`
 
+### DevOps
 
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `CI/CD`
 
+---
 
-AI / ML
+## 🚀 Featured Projects
 
+### 🧠 AI Chatbot Platform
 
+Enterprise conversational AI using **RAG architecture**
 
+**Tech Stack**
 
+`FastAPI` · `LangChain` · `OpenAI` · `Redis` · `Pinecone`
 
+**Features**
 
-Databases
+* Real-time responses
+* Context-aware memory
+* Vector search integration
+* Multi-format input/output
 
+---
 
+### 🏢 Microservices Backend Platform
 
+Scalable backend platform with **10+ independent services**
 
+**Tech Stack**
 
+`Django` · `Django REST Framework` · `RabbitMQ` · `PostgreSQL` · `Docker`
 
-DevOps
+**Features**
 
+* JWT authentication
+* Event-driven architecture
+* CI/CD automation
+* Real-time notifications
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=artursettarov&show_icons=true&theme=tokyonight"/>
 
-🚀 Featured Projects
-🧠 AI Chatbot Platform
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursettarov&layout=compact&theme=tokyonight"/>
 
-Enterprise conversational AI using RAG architecture
+</p>
 
-Stack
+---
 
-FastAPI • LangChain • OpenAI • Redis • Pinecone
+## 🤝 Connect with Me
 
-Features:
+* GitHub: https://github.com/artursettarov
+* LinkedIn: https://linkedin.com/in/artur-settarov
+* Telegram: https://t.me/artursettarov
+* Email: [artur@settarov.dev](mailto:artur@settarov.dev)
 
-Real-time responses
-
-Context-aware memory
-
-Vector search integration
-
-Multi-format input/output
-
-🏢 Microservices Backend Platform
-
-Scalable backend with 10+ services
-
-Stack
-
-Django • DRF • RabbitMQ • PostgreSQL • Docker
-
-Features
-
-JWT authentication
-
-Event-driven architecture
-
-CI/CD automation
-
-Real-time notifications
-
-📊 GitHub Stats
-🤝 Connect with Me
