@@ -1,4 +1,3 @@
-<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2c5364,203a43,0f2027&height=250&section=header&text=Artur%20Settarov&fontSize=50&fontColor=00ff9f&animation=fadeIn" />
 </p>
@@ -8,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/artursettarov">
-    <img src="https://img.shields.io/github/followers/artursettarov?label=Followers&style=for-the-badge&color=00ff9f&logo=github" />
+  <a href="https://github.com/Artur-Settarov0228">
+    <img src="https://img.shields.io/github/followers/Artur-Settarov0228?label=Followers&style=for-the-badge&color=00ff9f&logo=github" />
   </a>
   <a href="https://linkedin.com/in/artur-settarov">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -23,7 +22,7 @@
 
 ## 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=artursettarov&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Artur-Settarov0228&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="trophy" />
 </p>
 
 ---
@@ -36,8 +35,6 @@ Men **Backend arxitekturasi** va **Sun'iy Intellekt** tizimlarini integratsiya q
 * 🤖 **AI Enthusiast:** LLM, RAG va ML modellarni ishlab chiqarishga (production) joriy etish.
 * ☁️ **Cloud Native:** Docker va Kubernetes orqali tizimlarni avtomatlashtirish.
 * 🛠 **Problem Solver:** Algoritmlar va ma'lumotlar strukturasi bo'yicha muammolarni yechish.
-
-> *"Coding is not just writing lines of code, it's about solving real-world problems elegantly."*
 
 ---
 
@@ -74,12 +71,12 @@ Men **Backend arxitekturasi** va **Sun'iy Intellekt** tizimlarini integratsiya q
 ## 📊 Analysis & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=artursettarov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursettarov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Artur-Settarov0228&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Settarov0228&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artursettarov&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artur-Settarov0228&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -91,10 +88,9 @@ Men **Backend arxitekturasi** va **Sun'iy Intellekt** tizimlarini integratsiya q
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artursettarov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-settarov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur@settarov.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://settarov.dev)
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=artursettarov&color=00ff9f&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Artur-Settarov0228&color=00ff9f&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </p>
