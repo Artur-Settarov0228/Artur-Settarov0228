@@ -27,16 +27,14 @@
 
 ---
 
-## 📊 GitHub Analytics (PRs & Repos)
+## 🚀 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Artur-Settarov0228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Settarov0228&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Men **Backend arxitekturasi** va **Sun'iy Intellekt** tizimlarini integratsiya qilish bo'yicha mutaxassisman. Yuqori yuklamali (high-load) va skalabillashuvchi tizimlar qurishga e'tibor qarataman.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Artur-Settarov0228&theme=tokyo-night&area=true&hide_border=true" />
-</p>
+* 🏅 **Backend Expert:** Murakkab mikroservislar va API dizayni.
+* 🤖 **AI Enthusiast:** LLM, RAG va ML modellarni ishlab chiqarishga (production) joriy etish.
+* ☁️ **Cloud Native:** Docker va Kubernetes orqali tizimlarni avtomatlashtirish.
+* 🛠 **Problem Solver:** Algoritmlar va ma'lumotlar strukturasi bo'yicha muammolarni yechish.
 
 ---
 
@@ -61,20 +59,38 @@
 
 ---
 
-## 📈 Streak & Contributions
+## 📊 GitHub Analytics (PRs & Activity)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artur-Settarov0228&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Artur-Settarov0228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Settarov0228&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Artur-Settarov0228&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Artur-Settarov0228&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 📬 Connect with Me
+
 <div align="center">
-  <a href="https://t.me/artursettarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/artur-settarov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:artur@settarov.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/artursettarov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/artur-settarov">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:artur@settarov.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Artur-Settarov0228&color=00ff9f&style=flat-square&label=PROFILE+VIEWS" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Artur-Settarov0228&color=00ff9f&style=flat-square&label=PROFILE+VIEWS" alt="Artur's Profile Views" />
 </p>
